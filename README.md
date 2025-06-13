@@ -17,8 +17,8 @@ The game also contains the following:
   * Code for seven-segment style displays to display numbers.
 
 The following sources were helpful:
-https://processing.org/reference/ for general processing documentation.
-https://coderanch.com/t/628589/java/create-objects-loop for creating arrays of objects using loops.
-https://forum.processing.org/two/discussion/27604/find-image-dimensions-when-loading-image.html for finding the dimensions of images.
-A.L.’s Tetris project for the method of storing high scores using PrintWriter
-JustBlebs (SylviaIsTired)’s various helpful suggestions, especially telling me to use the switch() function.
+  * https://processing.org/reference/ for general processing documentation.
+  * https://coderanch.com/t/628589/java/create-objects-loop for creating arrays of objects using loops.
+  * https://forum.processing.org/two/discussion/27604/find-image-dimensions-when-loading-image.html for finding the dimensions of images.
+  * A.L.’s Tetris project for the method of storing high scores using PrintWriter
+  * JustBlebs (SylviaIsTired)’s various helpful suggestions, especially telling me to use the switch() function.
